@@ -1,0 +1,50 @@
+body {
+  background-color:#D3D3D3		 }
+
+.App {
+  text-align: center; }
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px; }
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white; }
+
+.App-title {
+  font-size: 1.5em; }
+
+.App-intro {
+  font-size: large; }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+
+
+/* .NewChannel-Container {
+  padding-left: 3em;
+  padding-top: 3em;
+  padding-right: 3em; } */
+
+.Bill {
+  padding: 20px;
+  margin-left: 10% ;
+  width: 50%;
+  margin-bottom: 40px;
+  background: #f8f9fa;
+  border: 1px solid #e4e4e4; }
+
+  .get-dae {
+    background: #3574fa;
+    color: #fff;
+  }
+
+  .appname {
+    font-size: 18px;
+  }
